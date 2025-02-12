@@ -9,3 +9,4 @@ filtered_df = second_ottawa_housing[second_ottawa_housing\
     ['City'].str.contains('Ottawa', case=False, na=False)]
 
 print(filtered_df)
+ok
