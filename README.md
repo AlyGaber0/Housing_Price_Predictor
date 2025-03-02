@@ -1,6 +1,6 @@
-#Housing Price Predictor
+# Housing Price Predictor
 
-##Overview
+## Overview
 The **Housing Price Predictor** is a machine learning project that estimates the price of a house based on key features such as:
 - Square footage
 - Number of bedrooms
@@ -18,7 +18,7 @@ Built with **Python & Machine Learning**
 Clean and scalable code for easy improvements  
 
 ---
-##Tech Stack
+## Tech Stack
 - **Programming Language:** Python  
 - **Machine Learning:** Scikit-learn  
 - **Data Handling:** Pandas, NumPy  
